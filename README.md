@@ -1,134 +1,133 @@
-
 <div align="center">
 
-# 🔵🔴 MAHI | Developer
+<img src="assets/banner.gif" alt="Abstract looping navy, garnet and electric-blue cinematic banner" width="100%">
 
-### Building ideas into working software.
+MAHI
+SOFTWARE ENGINEER IN PROGRESS
+B.Tech Information Technology · Full-Stack Development · AI/ML
 
-**B.Tech Information Technology · Full-Stack Development · AI/ML**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MAHI--10--BARCA-181717?style=for-the-badge&logo=github)](https://github.com/MAHI-10-BARCA)
-[![Profile Views](https://komarev.com/ghpvc/?username=MAHI-10-BARCA&style=for-the-badge&color=8A1538)](https://github.com/MAHI-10-BARCA)
+<img src="https://img.shields.io/badge/BUILD-THINK-LEARN-7A1838?style=flat-square" alt="Build, think, learn accent">
 
 </div>
 
----
+About
+I am a B.Tech Information Technology student at Madras Institute of Technology, Chennai, interested in building practical software and exploring how AI systems can understand and process information.
 
-## ⚡ About Me
+My work spans full-stack application development, machine learning, natural language processing, and transformer-based systems. I value clear architecture, maintainable code, and learning the fundamentals behind the tools I use.
+- Focus: Full-stack engineering, NLP, applied AI/ML
+- Approach: Build, test, iterate, and document
+- Currently exploring: Discourse parsing, generative AI, model evaluation, and reliable application design
+Featured Work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Hey! I'm **Mahi**, an Information Technology student who enjoys building practical applications and exploring intelligent systems.
+Cross-Domain Discourse Parser
+A research-oriented document discourse parsing pipeline that segments text into Elementary Discourse Units, generates and scores Question-Under-Discussion candidates, classifies discourse relations, and builds a hierarchical tree through bottom-up merging.
 
-- 💻 Interested in full-stack development and software engineering.
-- 🤖 Exploring machine learning, NLP and generative AI.
-- 🛠️ Building projects that combine useful ideas with real implementation.
-- 📚 Always learning, experimenting and improving.
-- ⚽ Barça colours, developer mindset — *Més que un club!*
+Python NLP Transformers Research
 
----
+View repository
+</td>
+<td width="50%" valign="top">
 
-## 🧰 Tech Stack
+Malayalam Multimodal AI
+A Malayalam-focused multimodal prototype covering text classification, image OCR classification, and speech recognition, with Tesseract OCR, Google speech recognition, and character n-gram NLP components described in the repository.
 
+Python NLP OCR Speech
+
+View repository
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+Secure Image Steganography
+A full-stack academic project that encrypts a message with AES-256-GCM, derives a key using scrypt, and embeds the encrypted payload into image least-significant bits. The repository describes a React frontend and FastAPI backend.
+
+React TypeScript FastAPI Cryptography
+
+View repository
+</td>
+<td width="50%" valign="top">
+
+Fake News SNA Project
+A social-network analysis project that models misinformation propagation and explores influential nodes, bot-like behaviour, community structure, and fact-checking nodes using graph-based methods.
+
+Python Graph Theory SNA Visualization
+
+View repository
+</td>
+</tr>
+</table>
+
+Technology
+The badges below represent tools and languages I work with or am actively learning, not a claim of expert-level proficiency.
+Languages
+<p>
+<img src="https://img.shields.io/badge/Java-1F6FEB?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-1F6FEB?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/C%23-1F6FEB?style=flat-square&logo=csharp&logoColor=white" alt="C sharp">
+<img src="https://img.shields.io/badge/SQL-1F6FEB?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+Frontend and Backend
+<p>
+<img src="https://img.shields.io/badge/React-245BDB?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Vite-245BDB?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Tailwind_CSS-245BDB?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Node.js-245BDB?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-245BDB?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Spring_Boot-245BDB?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+</p>
+
+Data and AI
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-7A1838?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-7A1838?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Firebase-7A1838?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/TensorFlow-7A1838?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Keras-7A1838?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+<img src="https://img.shields.io/badge/NLP-7A1838?style=flat-square" alt="Natural language processing">
+<img src="https://img.shields.io/badge/Transformers-7A1838?style=flat-square" alt="Transformer models">
+</p>
+
+Developer Tools
+<p>
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Google_Colab-161B22?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
+</p>
+
+GitHub Activity
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MAHI-10-BARCA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3987FF&icon_color=9B2148&text_color=C9D1D9&rank_icon=github" alt="GitHub repository and contribution statistics">
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHI-10-BARCA&layout=compact&hide_border=true&bg_color=0D1117&title_color=3987FF&text_color=C9D1D9" alt="Most used programming languages">
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://streak-stats.demolab.com?user=MAHI-10-BARCA&hide_border=true&background=0D1117&ring=3987FF&fire=9B2148&currStreakLabel=3987FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak">
 
-### AI / ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHI-10-BARCA&bg_color=0D1117&color=C9D1D9&line=3987FF&point=9B2148&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 [Cross-Domain Discourse Parser](https://github.com/MAHI-10-BARCA/cross-domain-discourse-parser)
-
-An NLP research project focused on discourse structure, relation classification and building structured representations from text.
-
-**Focus:** NLP · Sentence embeddings · Transformers · Machine Learning
-
-### 🗣️ [Malayalam Multimodal AI](https://github.com/MAHI-10-BARCA/Malayalam-Multimodal-AI)
-
-An AI project exploring multimodal processing for Malayalam-language applications.
-
-**Focus:** AI/ML · Language Technology · Multimodal Systems
-
-### 🔐 [Secure Image Steganography](https://github.com/MAHI-10-BARCA/secure-image-steganography)
-
-A project focused on concealing information within images and exploring secure data communication.
-
-**Focus:** Python · Information Security · Steganography
-
-### 🌐 [Ride-Sharing Web Application](https://github.com/MAHI-10-BARCA/Ride-Sharing-web)
-
-A web application project exploring ride-sharing workflows and application development.
-
-**Focus:** Web Development · Application Design
-
-### 📰 [Fake News SNA Project](https://github.com/MAHI-10-BARCA/fake-news-sna-project)
-
-A project exploring fake-news analysis through social network analysis techniques.
-
-**Focus:** Social Network Analysis · Data Analysis
-
-> Explore my repositories for more projects, experiments and code.
-
----
-
-## 📊 GitHub Dashboard
-
+Statistics and streak cards are served by external community services. They may occasionally be rate-limited, unavailable, or show incomplete data; remove any card that stops loading.
+Education
+Madras Institute of Technology, Chennai
+B.Tech — Information Technology
+Connect
+- GitHub: @MAHI-10-BARCA
+- LinkedIn: Add your LinkedIn URL
+- Email: Add a public contact email if you want one displayed
+- Portfolio: Add a portfolio URL when available
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MAHI-10-BARCA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHI-10-BARCA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=MAHI-10-BARCA&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- Build stronger full-stack engineering skills.
-- Develop and document meaningful software projects.
-- Explore AI, NLP and machine learning applications.
-- Write cleaner, maintainable and well-tested code.
-- Prepare for software engineering placements.
-
----
-
-<div align="center">
-
-### 💙 Built with curiosity. Driven by code. 🔴
-
-*“The best way to learn is to build something real.”*
-
-**Visca el Barça!** ⚽
-
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/MAHI-10-BARCA?tab=repositories)
+Build with intent. Learn continuously. Improve every iteration.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&color=0:7A1838,50:245BDB,100:0D1117" alt="Thin garnet and blue footer accent" width="100%">
 
 </div>
