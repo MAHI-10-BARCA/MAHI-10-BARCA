@@ -1,63 +1,37 @@
- 
-<!-- ==================== HERO BANNER ==================== -->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0D1117,50:312E81,100:0891B2&text=Mahi&fontColor=FFFFFF&fontSize=72&fontAlignY=55&animation=fadeIn" alt="Mahi"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,35:312E81,70:4338CA,100:06B6D4&text=MAHI&fontColor=FFFFFF&fontSize=90&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=17&descAlignY=63&animation=fadeIn" alt="Mahi profile banner"/>
+### Cloud Computing | AI/ML | Full-Stack Development
 
-### 👨‍💻 Building Projects · Exploring AI · Turning Ideas Into Code
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cloud+Computing;Artificial+Intelligence+%26+Machine+Learning;Full-Stack+Development;Building+Scalable+Applications" alt="Professional focus"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=BTech+Information+Technology+Student;Full-Stack+Developer;AI%2FML+%26+Generative+AI+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New" alt="Typing animation"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-MAHI--10--BARCA-181717?style=for-the-badge&logo=github)](https://github.com/MAHI-10-BARCA)
-[![Profile Views](https://komarev.com/ghpvc/?username=MAHI-10-BARCA&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)](https://github.com/MAHI-10-BARCA)
+[![GitHub](https://img.shields.io/badge/GitHub-MAHI--10--BARCA-181717?style=flat-square&logo=github)](https://github.com/MAHI-10-BARCA)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```javascript
-const mahi = {
-    education: "B.Tech Information Technology",
-    role: "Full-Stack Developer & AI/ML Enthusiast",
-    interests: [
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Generative AI & LLMs",
-        "Machine Learning",
-        "Backend Engineering"
-    ],
-    currentFocus: [
-        "Building real-world applications",
-        "Exploring Generative AI",
-        "Improving system design",
-        "Learning and building consistently"
-    ],
-    motto: "Learn. Build. Experiment. Repeat."
-};
-```
+I am a B.Tech Information Technology student interested in building scalable applications, exploring cloud technologies, and developing AI-powered solutions.
 
-- 💻 Passionate about building full-stack applications and practical software solutions.
-- 🤖 Exploring Machine Learning, Deep Learning, Generative AI and Large Language Models.
-- ⚡ Interested in real-time applications, backend systems and AI-powered products.
-- 🛠️ I enjoy taking ideas from concept to implementation.
-- 🎯 Goal: Become a strong software engineer with expertise in AI and scalable systems.
+- Focused on full-stack application development and backend engineering.
+- Exploring machine learning, deep learning, Generative AI, and large language models.
+- Interested in cloud computing, application deployment, and scalable software architecture.
+- Building practical projects that combine software engineering and artificial intelligence.
 
----
+## Technical Skills
 
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
+### Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css&theme=dark" alt="Programming languages"/>
 
 </div>
 
-### 🌐 Frontend Development
+### Frontend Development
 
 <div align="center">
 
@@ -65,7 +39,7 @@ const mahi = {
 
 </div>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <div align="center">
 
@@ -73,7 +47,7 @@ const mahi = {
 
 </div>
 
-### 🗄️ Databases & ORM
+### Databases and Data Management
 
 <div align="center">
 
@@ -81,94 +55,89 @@ const mahi = {
 
 </div>
 
-### 🧠 AI / ML & Generative AI
+### Cloud and Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI and machine learning technologies"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,render&theme=dark" alt="Development and deployment tools"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
 <img src="https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 
 </div>
 
-### 🔧 Tools & Platforms
+### Artificial Intelligence and Machine Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,idea,docker&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI and machine learning"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 PartyHub
+### PartyHub
+
 **Multiplayer Party Gaming Platform**
 
-A browser-based multiplayer gaming platform built around interactive rooms, real-time communication and social gameplay.
+A browser-based multiplayer gaming platform with real-time communication, room-based lobbies, and interactive games.
 
-**Highlights**
-- Real-time multiplayer architecture
-- Room-based lobbies and player interactions
-- Multiple party-game experiences
+**Technologies**
 
-**Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO, Prisma, PostgreSQL
+React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO, Prisma, PostgreSQL
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
-**Full-Stack Healthcare Application**
+### Malayalam Multimodal AI
 
-A healthcare management project focused on organizing hospital workflows and managing information through a web application.
+**AI and Natural Language Processing**
 
-**Highlights**
-- Structured backend architecture
-- Database-driven application
-- Full-stack development
+An AI research project exploring language technologies, speech processing, and Transformer-based models for Malayalam applications.
 
-**Stack:** Spring Boot, Java, MySQL, React
+**Technologies**
+
+Python, TensorFlow/Keras, NLP, Transformer models
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 SmartCart
-**Mobile Application**
+### Hospital Management System
 
-A mobile application developed with a focus on a modern user experience and cloud-backed application functionality.
+**Full-Stack Application**
 
-**Highlights**
-- Mobile-first development
-- Firebase integration
-- Application data management
+A healthcare management application designed to organize hospital workflows through a structured backend and database-driven frontend.
 
-**Stack:** Flutter, Firebase
+**Technologies**
+
+Java, Spring Boot, MySQL, React
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Malayalam Multimodal AI
-**AI / NLP Research Project**
+### SmartCart
 
-An AI-focused project exploring language technologies and multimodal processing for Malayalam-related applications.
+**Mobile Application**
 
-**Highlights**
-- Natural Language Processing
-- Speech and language model exploration
-- Deep learning experimentation
+A mobile application built with Flutter and Firebase, focusing on application functionality and cloud-backed data management.
 
-**Stack:** Python, TensorFlow/Keras, NLP and Transformer models
+**Technologies**
+
+Flutter, Firebase
 
 </td>
 </tr>
@@ -176,23 +145,19 @@ An AI-focused project exploring language technologies and multimodal processing 
 
 <div align="center">
 
-💡 More projects and experiments on my GitHub profile.
-
-<a href="https://github.com/MAHI-10-BARCA?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+[View All Repositories](https://github.com/MAHI-10-BARCA?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MAHI-10-BARCA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MAHI-10-BARCA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHI-10-BARCA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHI-10-BARCA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 </div>
 
@@ -204,37 +169,28 @@ An AI-focused project exploring language technologies and multimodal processing 
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MAHI-10-BARCA&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MAHI-10-BARCA&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
 
-<a href="https://github.com/MAHI-10-BARCA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<!-- Add your LinkedIn profile URL when ready -->
-<!-- Add your professional email address when ready -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHI-10-BARCA)
 
 </div>
 
----
-
 <div align="center">
 
-### 💜 Code With Purpose. Build With Curiosity.
+Building scalable software. Exploring intelligent systems. Learning continuously.
 
-*“Great things are built one commit at a time.”*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:4338CA,100:0D1117" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0891B2,50:312E81,100:0D1117" alt="Footer"/>
 
 </div>
